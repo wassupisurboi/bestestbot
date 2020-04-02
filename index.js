@@ -5,7 +5,7 @@
 const discord = require('discord.js');
 const math = require('math.js');
 const bot = new discord.Client();
-const token = 'Njk1MDY0MjYxOTk0NzQxODAx.XoVBaQ.TEij3TypRXtlj_V5L6PhKGYN6nw';
+const token = 'Njk1MDY0MjYxOTk0NzQxODAx.XoVZnw.BlOr0pZfiEnpcPwH2jqOIT2vdTg';
 const prefix = ';';
 
 bot.on('ready', () => {
